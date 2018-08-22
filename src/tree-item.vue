@@ -60,7 +60,7 @@
           wholeRow: {type: Boolean, default: false},
           showCheckbox: {type: Boolean, default: false},
           allowTransition: {type: Boolean, default: true},
-          height: {type: Number, default: 24},
+          height: {type: Number, default: 48},
           parentItem: {type: Array},
           draggable: {type: Boolean, default: false},
           dragOverBackgroundColor: {type: String},
